@@ -1,0 +1,23 @@
+body{
+	background-color: #00BFFF;
+}/* Put your CSS Styling here! */
+
+.img1{
+
+	
+	width: 300px
+}
+.food > p {
+    font-size: 60px
+}
+#list > li {
+    font-size: 25px
+}
+.sen{
+    font-family: initial;
+    font-size: 25px
+}
+.img_con{
+    width: 100%;
+    
+}
